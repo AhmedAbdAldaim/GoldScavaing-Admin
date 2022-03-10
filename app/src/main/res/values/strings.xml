@@ -1,0 +1,138 @@
+<resources>
+
+    <string name="app_name">Admin Haif</string>
+
+    <!-- Connection -->
+    <string name="connect_internet">Please Check Your Internet Connection </string>
+    <string name="connect_internet_slow">There is Problem With The Internt Connection </string>
+    <string name="loading">Loading</string>
+    <string name="wait">Please Wait ....</string>
+    <string name="try_agin">Try Again</string>
+    <string name="ok"> OK</string>
+    <string name="error">Error</string>
+    <string name="servererror">Somthing went wrong please try again later</string>
+
+
+    <!--[1] LOGIN ACTIVITY-->
+    <string name="login">Login</string>
+    <string name="phone">Phone Number</string>
+    <string name="password">Password</string>
+    <string name="phone_empty">Enter Phone Number</string>
+    <string name="password_empty">Enter Password</string>
+    <string name="password_check">Please Enter Password Minimum In 8 Char !</string>
+    <string name="phone_valid">Please Enter Valid Phone Number !</string>
+    <string name="password_forget">Forget The Password ?</string>
+
+    <!-- [2] MAIN ACTIVITY -->
+    <string name="newregisteration_carview">New Added</string>
+    <string name="show_cardview">List Show</string>
+    <string name="report_cardview">Report</string>
+    <string name="setting_cardview">Setting</string>
+    <string name="lastlogin">Login Last :</string>
+
+
+    <!--[3] NEW REGISTERATION ACTIVITY-->
+    <string name="actionbar_new_registeration">New Registeration</string>
+    <string name="fullname_new_registeration">Full Name</string>
+    <string name="phone_new_registeration">Phone Number</string>
+    <string name="password_new_registeration">Password</string>
+    <string name="passwordconfirm_new_registeration">Password Confirm</string>
+    <string name="shop_new_registeration">Shop</string>
+    <string name="registeration">Registeration</string>
+
+    <string name="fullname_new_registeration_empty">Enter Full Name</string>
+    <string name="phone_new_registeration_empty">Enter Phone Number</string>
+    <string name="shop_new_registeration_empty">Enter Shop</string>
+    <string name="password_new_registeration_empty">Enter Password</string>
+    <string name="password_confirm_new_registeration_empty">Enter Password Confirm</string>
+
+
+    <string name="check_fullname_length_new_registeration">You Can not Enter More than 40 Characters !</string>
+    <string name="password_similarity">Please Verity The Password Is Similar !</string>
+    <string name="fullname_new_registeration_valid">Please Enter Name Char !</string>
+    <string name="phone_new_registeration_valid">Please Enter Valid Phone Number ! </string>
+    <string name="shop_new_registeration_valid">Please Enter Name Char !</string>
+    <string name="password_new_registeration_valid">Please Enter Password Minimum In 8 Char !</string>
+
+    <string name="successful_register">Register Is Done !</string>
+
+    <!--[4] LIST SHOW ACTIVITY -->
+    <string name="actionbar_system_users">System Users</string>
+    <string name="empty">There is no Data</string>
+    <string name="search">Enter Name Or Phone Number</string>
+    <string name="active">Active</string>
+    <string name="nonactive">NonActive</string>
+
+
+    <!--[5] CUSTOM LIST SHOW  -->
+    <string name="addeddate">Added Date:</string>
+    <string name="delete">Delete</string>
+    <string name="recovery">Recovery</string>
+    <string name="active_status">Account Activated To</string>
+    <string name="nonactive_status">Account Deactivated To</string>
+    <string name="user_remove_massage">Do You Want To Remove</string>
+    <string name="user_recovery_massage">Do You Want To Recovered</string>
+    <string name="Done_remove_massage">Has Been Remove</string>
+    <string name="Done_recovery_massage">Has Been Recovered</string>
+
+
+    <!--[6] Settings -->
+    <string name="actionbar_setting">Settings</string>
+    <string name="actionbardeltedlist">Deleted List</string>
+    <string name="deltedlist">Deleted List</string>
+    <string name="edit_profile">Edit Profile</string>
+    <string name="logout">Logout</string>
+    <string name="language">Language</string>
+
+
+    <!--[7] EDIT PROFILE ACTIVITY -->
+    <string name="actionbar_edit_profile">Edit Profile</string>
+    <string name="fullname_edit_profile">Full Name</string>
+    <string name="phone_edit_profile">Phone Number</string>
+    <string name="oldpassword">Old Password</string>
+    <string name="newpassword">New Password</string>
+    <string name="newpasswordconfirm">New Confirm Password</string>
+
+    <string name="fullname_edit_profile_empty">Enter Full Name</string>
+    <string name="phone_edit_profile_empty">Enter Phone Number</string>
+    <string name="oldpassword_edit_profile_empty">Enter Old Password</string>
+    <string name="newpassword_edit_profile_empty">Enter New Password</string>
+    <string name="password_confirm_edit_profile_empty">Enter Password Confirm</string>
+
+    <string name="check_fullname_length_edit_profile">You Can not Enter More than 40 Characters !</string>
+    <string name="phone_edit_profile_valid">Please Enter Valid Phone Number !</string>
+    <string name="newpassword_edit_profile_valid">Please Enter Password Minimum In 8 Char !</string>
+    <string name="password_similarity_edit_profile">Please Verity The Password Is Similar !</string>
+    <string name="oldpassword_edit_profile_wrong">The Old Password Is Wrong !</string>
+
+    <string name="edit">Update</string>
+    <string name="updatesuccssfl">Has Been Update is Successful !</string>
+
+
+    <!--[8]OTP ACTIVE-->
+    <string name="verification_code">Verification</string>
+    <string name="title_verification_code">We Will Send You One Time On This Mobile Number</string>
+    <string name="enter_phone">Enter Phone Number</string>
+    <string name="send">Send</string>
+    <string name="enter_verification_code">Enter Verification Code</string>
+    <string name="dont_recive">Dont Receive The Verification Code</string>
+    <string name="resend_code">Resend Verification Code ?</string>
+    <string name="verification">Verification</string>
+    <string name="verificationsuccessfully">Verified Successfully !</string>
+    <string name="verificationerror">Invalid Verification Code !</string>
+    <string name="sentotp">Verification Code Has Been Sent</string>
+    <string name="welcomeback">Welcome Back</string>
+    <string name="phonereg">Enter The Registered Phone Number</string>
+    <string name="newpass">New Password</string>
+    <string name="recovercount">The Account Has Been Successfully Restored !</string>
+
+    <!--[8]Check EditProfile Passwrd-->
+    <string name="actionbar_check_edit_profile_password">Edit Password</string>
+
+    <!-- logout massage -->
+    <string name="hidder_massage">Logout</string>
+    <string name="massage_content">- Do You Want To Logout ? </string>
+    <string name="text_yes">Yes</string>
+    <string name="text_no">No</string>
+
+</resources>

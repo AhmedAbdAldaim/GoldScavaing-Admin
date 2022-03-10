@@ -1,0 +1,2 @@
+rootProject.name='Gold Scavenging'
+include ':app'

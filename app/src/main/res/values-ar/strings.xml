@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Admin Haif</string>
+
+    <!-- Connection -->
+    <string name="connect_internet">الرجاء التحقق إتصال الانترنت </string>
+    <string name="connect_internet_slow">هناك مشكلة في الإتصال بالانترنت </string>
+    <string name="loading">جار التحميل...</string>
+    <string name="wait">أرجو الإنتظار ....</string>
+    <string name="try_agin">حاول مرة اخرى</string>
+    <string name="ok">موافق</string>
+    <string name="error">خطأ</string>
+    <string name="servererror"> حدث خطأ ما يرجى المحاولة مرة أخرى في وقت لاحق</string>
+
+
+    <!--[1] LOGIN ACTIVITY-->
+    <string name="login">تسجيل الدخول</string>
+    <string name="phone">رقم الهاتف</string>
+    <string name="password">كلمة المرور</string>
+    <string name="phone_empty">أدخل رقم الهاتف</string>
+    <string name="password_empty">أدخل كلمة المرور</string>
+    <string name="password_check">الرجاء إدخال كلمة المرور من 8 خانات او أكثر !</string>
+    <string name="phone_valid">الرجاء إدخال رقم هاتف صالح !</string>
+    <string name="password_forget">هل نسيت كلمة السر؟</string>
+
+
+    <!-- [2] MAIN ACTIVITY -->
+    <string name="newregisteration_carview">تسجيل جديد</string>
+    <string name="show_cardview">عرض القائمة</string>
+    <string name="report_cardview">التقارير</string>
+    <string name="setting_cardview">الإعدادات</string>
+    <string name="lastlogin">اخر تسجيل دخول :</string>
+
+
+    <!--[3] NEW REGISTERATION ACTIVITY-->
+    <string name="actionbar_new_registeration">تسجيل جديد</string>
+    <string name="fullname_new_registeration">الأسم الرباعي</string>
+    <string name="phone_new_registeration">رقم الهاتف</string>
+    <string name="shop_new_registeration">المحل التجاري</string>
+    <string name="password_new_registeration">كلمة المرور</string>
+    <string name="passwordconfirm_new_registeration">تأكيد كلمة المرور</string>
+    <string name="registeration">تسجيل</string>
+
+    <string name="fullname_new_registeration_empty">أدخل الأسم الرباعي</string>
+    <string name="phone_new_registeration_empty">أدخل رقم الهاتف</string>
+    <string name="shop_new_registeration_empty">أدخل المحل التجاري</string>
+    <string name="password_new_registeration_empty">أدخل كلمة المرور</string>
+    <string name="password_confirm_new_registeration_empty">أدخل تأكيد كلمة المرور</string>
+
+    <string name="check_fullname_length_new_registeration">لا يمكن إدخال أكثر من 40 حرف !</string>
+    <string name="fullname_new_registeration_valid">الرجاء إدخال الأسم من أحرف فقط !</string>
+    <string name="phone_new_registeration_valid">الرجاء إدخال رقم هاتف صالح !</string>
+    <string name="shop_new_registeration_valid">الرجاء إدخال الأسم من أحرف فقط !</string>
+    <string name="password_new_registeration_valid">الرجاء إدخال كلمة المرور من 8 خانات او أكثر !</string>
+    <string name="password_similarity">الرجاء التحقق من تشابه كلمة المرور !</string>
+    <string name="successful_register">تمت عملية الاضافة بنجاح !</string>
+
+
+
+    <!--[4] LIST SHOW ACTIVITY -->
+    <string name="actionbar_system_users">مستخدمي النظام</string>
+    <string name="empty">لا توجد بيانات</string>
+    <string name="active">نشط</string>
+    <string name="nonactive">غير نشط</string>
+    <string name="search">أدخل الأسم أو رقم الهاتف</string>
+
+
+
+    <!--[5] CUSTOM LIST SHOW  -->
+    <string name="delete">ازالة</string>
+    <string name="recovery">إسترجاع</string>
+    <string name="addeddate">تاريخ الاضافة :</string>
+    <string name="active_status">تم تنشيط حساب </string>
+    <string name="nonactive_status">تم الغاء تنشيط حساب</string>
+    <string name="user_remove_massage">هل تريد ازالة</string>
+    <string name="user_recovery_massage">هل تريد إسترجاع</string>
+    <string name="Done_remove_massage">تم ازالة</string>
+    <string name="Done_recovery_massage">تم إسترجاع</string>
+
+
+
+
+    <!--[6] Settings -->
+    <string name="actionbar_setting">الاعدادات</string>
+    <string name="actionbardeltedlist">قائمة المحذوفين</string>
+    <string name="deltedlist">قائمة المحذوفين</string>
+    <string name="edit_profile">تعديل البيانات الشخصية</string>
+    <string name="logout">تسجيل خروج </string>
+    <string name="language">اللغة</string>
+
+
+    <!--[7] EDIT PROFILE ACTIVITY -->
+    <string name="actionbar_edit_profile">تعديل الملف الشخصي</string>
+    <string name="fullname_edit_profile">الأسم الرباعي</string>
+    <string name="phone_edit_profile">رقم الهاتف</string>
+    <string name="oldpassword">كلمة المرور الحالية</string>
+    <string name="newpassword">كلمة المرور الجديدة</string>
+    <string name="newpasswordconfirm">تأكيد كلمة المرور الجديدة</string>
+
+    <string name="fullname_edit_profile_empty">أدخل الأسم الرباعي</string>
+    <string name="phone_edit_profile_empty">أدخل رقم الهاتف</string>
+
+    <string name="oldpassword_edit_profile_empty">أدخل كلمة المرور الحالية</string>
+    <string name="newpassword_edit_profile_empty">أدخل كلمة المرور الجديدة</string>
+    <string name="password_confirm_edit_profile_empty">أدخل تأكيد كلمة المرور الجديدة</string>
+
+    <string name="check_fullname_length_edit_profile">لا يمكن إدخال أكثر من 40 حرف !</string>
+    <string name="phone_edit_profile_valid">الرجاء إدخال رقم هاتف صالح !</string>
+    <string name="newpassword_edit_profile_valid">الرجاء إدخال كلمة المرور من 8 خانات او أكثر !</string>
+    <string name="password_similarity_edit_profile">الرجاء التحقق من تشابه كلمة المرور !</string>
+    <string name="oldpassword_edit_profile_wrong">كلمة المرور المدخلة غير صحيحة !</string>
+
+    <string name="edit">تعديل</string>
+    <string name="updatesuccssfl">تم التعديل بنجاح !</string>
+
+
+
+    <!--[8]OTP ACTIVE-->
+    <string name="verification_code">رمز التحقق</string>
+    <string name="title_verification_code">سوف نرسل لك رمز تحقق صالح لمرة واحدة على هذا الهاتف</string>
+    <string name="enter_phone">أدخل رقم الهاتف</string>
+    <string name="send">إرسال</string>
+    <string name="enter_verification_code">أدخل رمز التحقق</string>
+    <string name="dont_recive">لم تتلقى رمز التحقق</string>
+    <string name="resend_code">إعادة إرسال رمز التحقق</string>
+    <string name="verification">تحقق</string>
+    <string name="sentotp">تم إرسال رمز التحقق</string>
+    <string name="verificationsuccessfully">تم التحقق ينجاح !</string>
+    <string name="verificationerror">رمز التحقق غير صحيح !</string>
+    <string name="welcomeback">مرحبا بعودتك</string>
+    <string name="phonereg">ادخل رقم الهاتف المسجل</string>
+    <string name="newpass">كلمة السر الجديدة</string>
+    <string name="recovercount">تم استرجاع الحساب بنجاح !</string>
+
+    <!--[8]Check EditProfile Passwrd-->
+    <string name="actionbar_check_edit_profile_password">تعديل كلمة المرور</string>
+
+    <!-- logout massage -->
+    <string name="hidder_massage">تسجيل الخروج</string>
+    <string name="massage_content">- هل تريد تسجيل الخروج ؟ </string>
+    <string name="text_yes">نعم</string>
+    <string name="text_no">لا</string>
+
+</resources>

@@ -1,0 +1,113 @@
+{
+  "project_info": {
+    "project_number": "435057018302",
+    "project_id": "gold-otp",
+    "storage_bucket": "gold-otp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:435057018302:android:d69858d6e54524cbbaa5ef",
+        "android_client_info": {
+          "package_name": "com.example.goldscavenging"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "435057018302-kgn9jm0f7d5ki4as9t1geb57m4lm0jtc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.goldscavenging",
+            "certificate_hash": "b002fca17ae48c904cb80ee883fc8093dcec6415"
+          }
+        },
+        {
+          "client_id": "435057018302-eaka4tmcdkppfr61lt1ue1nlkipos5vl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaJLyrC1YjY4Le7LWIkD4TGl6z5RdB1so"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "435057018302-eaka4tmcdkppfr61lt1ue1nlkipos5vl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:435057018302:android:53ff6de254e74738baa5ef",
+        "android_client_info": {
+          "package_name": "com.example.goldscavenginguser"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "435057018302-5e21j48p4esdv541b79t5861s48ko09s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.goldscavenginguser",
+            "certificate_hash": "b002fca17ae48c904cb80ee883fc8093dcec6415"
+          }
+        },
+        {
+          "client_id": "435057018302-eaka4tmcdkppfr61lt1ue1nlkipos5vl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaJLyrC1YjY4Le7LWIkD4TGl6z5RdB1so"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "435057018302-eaka4tmcdkppfr61lt1ue1nlkipos5vl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:435057018302:android:451790783aec32abbaa5ef",
+        "android_client_info": {
+          "package_name": "com.example.goldscavengingusers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "435057018302-eaka4tmcdkppfr61lt1ue1nlkipos5vl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaJLyrC1YjY4Le7LWIkD4TGl6z5RdB1so"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "435057018302-eaka4tmcdkppfr61lt1ue1nlkipos5vl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
